@@ -1,0 +1,14 @@
+.box{
+	text-align:center;
+	font-family:sans-serif;
+	border-width:1px;
+	border-color:white;
+	border-style: solid;
+	padding:15px;
+	margin-right: 400px;
+}
+div{
+	font-family:sans-serif;
+	margin-left: 550px;
+	background-color: grey;
+}
